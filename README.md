@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at ADP as a Full Stack Developer. I'm also working on a web based synth, as well as some robotics projects on my free time.🤖
+- 🔭 I’m currently working at Charter Communications as a Lead Dev.
 - 🌱 I’m currently learning Rust and Webassembly.
 - 💬 Ask me about anything having to do with web architecture or development, I love talking about what I do!
 - 📫 How to reach me: You can shoot me an eamil at jordanshehane@gmail.com
 - 🎉 Hobbies: I like to play jazz piano, make little gadgets with raspberry pi's, and I rock climb regularly indoors and outdoors!
-
